@@ -1,2 +1,3 @@
 # odin-recipes
 First Project in the Odni Project
+This a simple project using ordered lists , undordered lists, images, links ...
